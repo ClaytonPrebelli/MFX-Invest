@@ -35,7 +35,7 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
 }
 
 nav.navbar .quote-btn a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
@@ -85,7 +85,7 @@ nav.bootsnav.navbar-sidebar.bg-dark ul.nav li.dropdown h6 {
 }
 
 nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full {
-  background: #f71735;
+  background: #1739f7;
 }
 
 nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full ul.nav > li > a {
@@ -97,7 +97,7 @@ nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full .attr-n
 }
 
 .attr-nav ul.cart-list li.total a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
   display: inline-block;
   font-weight: 600 !important;
   padding: 12px 15px;
@@ -105,7 +105,7 @@ nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full .attr-n
 }
 
 .attr-nav ul.cart-list li.total a:hover {
-  background: #f71735 none repeat scroll 0 0 !important;
+  background: #1739f7 none repeat scroll 0 0 !important;
   color: #ffffff !important;
 }
 
@@ -313,7 +313,7 @@ nav.navbar.attr-border .attr-nav {
 }
 
 .navbar.bootsnav .attr-nav li.btn a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
   color: #ffffff;
   display: inline-block;
   font-size: 13px;
@@ -388,7 +388,7 @@ nav.navbar.attr-border.bootsnav.sticked .attr-nav {
 }
 
 .attr-nav > ul > li > a span.badge {
-  background-color: #f71735;
+  background-color: #1739f7;
   color: #ffffff;
   height: 20px;
   line-height: 20px;
@@ -486,7 +486,7 @@ ul.cart-list > li.total > span {
 }
 
 .navbar.bg-dark .top-search {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
 }
 
 .top-search form {
@@ -637,7 +637,7 @@ body.on-side .body-overlay {
 }
 
 .navbar .side .widget li a:hover {
-  color: #f71735;
+  color: #1739f7;
 }
 
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
@@ -662,7 +662,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .navbar .side .widget.social li a:hover {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
   color: #ffffff;
 }
 
@@ -729,7 +729,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 
 .navbar .side .address li i {
   min-width: 25px;
-  color: #f71735;
+  color: #1739f7;
 }
 
 .navbar .side .address li .icon, 
@@ -742,7 +742,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   background: #f4f4f4 none repeat scroll 0 0;
   border: 1px solid #e7e7e7;
   border-radius: 5px;
-  color: #f71735;
+  color: #1739f7;
   font-size: 20px;
   height: 50px;
   line-height: 48px;
@@ -791,7 +791,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .side .widget ul.link li a {
-  color: #f71735;
+  color: #1739f7;
   display: block;
   font-weight: bold;
   letter-spacing: 1px;
@@ -836,7 +836,7 @@ nav.navbar.bootsnav .share ul > li > a {
 }
 
 nav.navbar.bootsnav .share.dark ul > li > a {
-  background-color: #f71735;
+  background-color: #1739f7;
   color: #ffffff;
 }
 
@@ -845,7 +845,7 @@ nav.navbar.bootsnav.color-yellow .share.dark ul > li > a {
 }
 
 nav.navbar.bootsnav .share ul > li > a:hover {
-  color: #f71735;
+  color: #1739f7;
 }
 
 nav.navbar.bootsnav.color-yellow .share ul > li > a:hover {
@@ -997,7 +997,7 @@ nav.navbar.bootsnav {
     content: "";
     height: 3px;
     width: 80%;
-    background: #f71735;
+    background: #1739f7;
   }
 
   nav.navbar.bootsnav.small-pad ul.nav > li > a {
@@ -1033,11 +1033,11 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.navbar.bootsnav.active-bg ul.nav > li.active > a {
-    background: #f71735 !important;
+    background: #1739f7 !important;
     color: #ffffff;
   }
 
@@ -1051,7 +1051,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav.active-full ul.nav > li > a.active,
     nav.navbar.bootsnav.active-full ul.nav > li > a:hover {
-    background: #f71735 none repeat scroll 0 0 !important;
+    background: #1739f7 none repeat scroll 0 0 !important;
     color: #ffffff;
   }
 
@@ -1065,7 +1065,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a:hover {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li > a:hover {
@@ -1147,7 +1147,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
@@ -1155,7 +1155,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
@@ -1248,7 +1248,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.navbar.bootsnav.color-yellow ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
@@ -1536,7 +1536,7 @@ nav.navbar.bootsnav {
   }
 
   nav.bootsnav.navbar-sidebar ul.nav > li > a:hover {
-    color: #f71735;
+    color: #1739f7;
   }
 
   nav.bootsnav.navbar-sidebar.color-yellow ul.nav > li > a:hover {
@@ -1815,7 +1815,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
     background-color: transparent !important;
-    color: #f71735 !important;
+    color: #1739f7 !important;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
@@ -2334,7 +2334,7 @@ nav.navbar.bootsnav {
 }
 
 .attr-nav.menu li:last-child a {
-  background: #f71735 none repeat scroll 0 0;
+  background: #1739f7 none repeat scroll 0 0;
   border-radius: 30px;
   color: #ffffff !important;
   padding: 5px 20px !important;
