@@ -136,6 +136,7 @@ p {
   margin: 0 0 15px;
   text-transform: none;
   font-weight: 400;
+  font-size:14pt
 }
 
 hr {
@@ -1692,6 +1693,11 @@ body,
 /* ============================================================== 
      # Services
 =================================================================== */
+.services-area{
+  background: #00021a;
+background: linear-gradient(157deg,rgba(0, 2, 26, 1) 0%, rgba(28, 35, 92, 1) 50%, rgba(0, 2, 26, 1) 100%);
+color:#fff;
+}
 
 .services-area.half-bg {
   position: relative;
@@ -1709,7 +1715,7 @@ body,
 }
 
 .services-area.inc-thumb .item .info {
-  padding: 30px;
+  padding:0 30px 30px 30px;
   background: #ffffff;
 }
 
@@ -1717,7 +1723,7 @@ body,
   -moz-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
   -webkit-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
   -o-box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
-  box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
+ box-shadow:  -1px 3px 10px -2px rgb(199 199 199 / 45%);
   border-bottom: 3px solid #1739f7;
   background: #ffffff;
 }
@@ -4921,4 +4927,53 @@ footer .twitter-widget .twitter-item:last-child {
   z-index: 999999;
   background: url(assets/img/preloader.gif) center no-repeat #fff;
   text-align: center;
+}
+.bold{
+  font-weight: 600;
+  color:#00021a;
+}
+.mfx-service{
+  background-color: #08223d!important;
+}
+.mfx-service-text{
+  color:#e8ebf0;
+}
+.mfx-service-bold{
+  font-weight: 500;
+  text-decoration: underline;
+  color:#eeedf7;
+}
+.mfx-capital{
+  background-color: #e3af39!important;
+}
+.mfx-capital-text{
+  color:#e8ebf0;
+}
+.mfx-capital-bold{
+  font-weight: 500;
+  text-decoration: underline;
+  color:#eeedf7;
+}
+.mfx-academy{
+  background-color: #07583a!important;
+}
+.mfx-academy-text{
+  color:#e8ebf0;
+}
+.mfx-academy-bold{
+  font-weight: 500;
+  text-decoration: underline;
+  color:#eeedf7;
+}
+
+.mfx-solution{
+  background-color: #1c1735!important;
+}
+.mfx-solution-text{
+  color:#e8ebf0;
+}
+.mfx-solution-bold{
+  font-weight: 500;
+  text-decoration: underline;
+  color:#eeedf7;
 }

@@ -2758,3 +2758,6 @@ nav.bootsnav.navbar-full .navbar-toggle:hover span {
 body.wrap-nav-sidebar {
   height: auto !important;
 }
+.text-white{
+  color:#e7e7e7;
+}

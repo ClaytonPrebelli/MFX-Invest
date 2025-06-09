@@ -203,7 +203,7 @@
             # Services Carousel
          ===============================================*/
         $('.services-carousel').owlCarousel({
-            loop: false,
+            loop: true,
             margin: 30,
             nav: false,
             navText: [
