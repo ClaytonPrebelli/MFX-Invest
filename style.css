@@ -62,8 +62,11 @@ Main Color : #1739f7
 * {
   padding: 0;
   margin: 0;
+  scroll-behavior:smooth;
 }
-
+:target {
+  scroll-margin-top: 100px; /* Ajuste o valor de acordo com a sua necessidade */
+}
 html {
   width: 100%;
   height: 100%;
